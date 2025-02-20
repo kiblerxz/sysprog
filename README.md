@@ -11,3 +11,5 @@
 - С файлом: `./program file.txt`.
 - С перенаправлением: `./program < input.txt > output.txt`.
 
+## Clone repo
+git apt update git apt install make sudo make all cd .build/ chmod +x program ./program
