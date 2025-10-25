@@ -1,5 +1,4 @@
-#!/bin/bash
-
-if [ ! -d ".build" ]; then
-	mkdir -p ./.build
-fi
+#!/usr/bin/env bash
+set -euo pipefail
+mkdir -p .build
+echo "build dir: .build"
